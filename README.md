@@ -1,2 +1,2 @@
 # Horario
- Site onde mostra o horario do dia automaticament
+ Site onde mostra o horario do dia automaticamente
